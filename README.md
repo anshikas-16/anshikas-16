@@ -23,10 +23,10 @@ CNN trained on 70,000 MNIST samples — 99.1% accuracy with <15ms inference time
 Built with production use cases in mind: postal automation, cheque processing, document digitisation.  
 `Python` `TensorFlow` `CNN` `Deep Learning`
 
-### 🧭 MARGDARSHAK — AI Navigation Kiosk
-Real-time indoor wayfinding using Dijkstra's algorithm across 50+ campus nodes.  
-Serves optimal routes in under 2 seconds on embedded hardware.  
-`Python` `Graph Algorithms` `OOP` `REST API`
+### 🧠 SentioAI — Multimodal Emotional Intelligence Analyzer
+SentioAI is a real-time AI system that detects human emotions across three channels — facial expressions, speech, and text — and fuses them into a unified pipeline that delivers personalized NLP-based coaching feedback instantly.
+Built with a modular Python architecture integrating DeepFace/CNN, OpenAI Whisper, and DistilBERT across a custom 3-channel fusion layer. Deployed live on Hugging Face Spaces with an interactive Gradio UI.
+'Python' 'DeepFace' 'Whisper' 'DistilBERT' 'Gradio' 'Hugging Face Spaces'
 
 ### ♻️ Plastic Usage Analyzer
 Flask REST API app that quantifies weekly plastic consumption with dynamic visualisation.  
