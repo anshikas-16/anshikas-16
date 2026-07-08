@@ -26,7 +26,7 @@ Built with production use cases in mind: postal automation, cheque processing, d
 ### 🧠 SentioAI — Multimodal Emotional Intelligence Analyzer
 SentioAI is a real-time AI system that detects human emotions across three channels — facial expressions, speech, and text — and fuses them into a unified pipeline that delivers personalized NLP-based coaching feedback instantly.
 Built with a modular Python architecture integrating DeepFace/CNN, OpenAI Whisper, and DistilBERT across a custom 3-channel fusion layer. Deployed live on Hugging Face Spaces with an interactive Gradio UI.
-'Python' 'DeepFace' 'Whisper' 'DistilBERT' 'Gradio' 'Hugging Face Spaces'
+`Python` `DeepFace` `Whisper` `DistilBERT` `Gradio` `Hugging Face Spaces`
 
 ### ♻️ Plastic Usage Analyzer
 Flask REST API app that quantifies weekly plastic consumption with dynamic visualisation.  
